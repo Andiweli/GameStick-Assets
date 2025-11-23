@@ -19,12 +19,8 @@ These files are primarily maintained for use in the the [GameStick Fans project]
 
 # Currently in testing
 
-Cyberflow_1.2.1_com.LarissaDavidova.Cyberflow_GS.apk<br>
 Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
 Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
-Momonga Pinball Adventures_1.2_com.paladinstudios.momonga.apk<br>
-Sela The Space Pirate_1.0_com.feili.SelaTheSpacePirate.apk<br>
-TURBINE_1.0_com.georgegames.turbine.apk<br>
 Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
 The Tribloos 2_2.3_com.Tribloos2.apk<br>
 unwind_1.4.2_com.jijjy.unwindpro.apk<br>
@@ -152,17 +148,21 @@ Tales of Pocoro_1.2.1_eu.curvedcat.talesofpocoro.apk<br>
 
 <details>
 <summary> 🪲 Games not compatible</summary>
+Cyberflow_1.2.1_com.LarissaDavidova.Cyberflow_GS.apk (crooked controls)<br>
 ExZeus (won't load after logo)<br/>
 Freeesh_1.5.5_com.realtechvr.freeesh.apk (freezes the console)<br>
 Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk (game are only 1/4 of screen, rotates 90deg when closing)<br/>
 Indy 500 (won't load after logo)<br/>
+Momonga Pinball Adventures_1.2_com.paladinstudios.momonga.apk (graphical bugs/ black box)<br>
 PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk (only 1 of 3 gamemodes available)<br/>
+Sela The Space Pirate_1.0_com.feili.SelaTheSpacePirate.apk (instant right-drift)<br>
 ShaqDown_1.3.0_com.playjam.shaqdown.apk (can't enter pausemenu again)<br/>
 Smash Cops (no stable menu navigation)<br/>
 The Button Affair (buttons mixed up: U=A, A=U and Y=L Shoulder)<br/>
 The Chronicles of Pandora (lag when enemies)<br/>
 The Other Brothers_1.1_com.tobgame.tob.apk (no stable menu navigation)<br/>
-Top Gear Stunt School (every first launch crashes app)
+Top Gear Stunt School (every first launch crashes app)<br>
+TURBINE_1.0_com.georgegames.turbine.apk (Screen rotated, no controls)<br>
 </details>
 
 > [!NOTE]
