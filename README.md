@@ -19,11 +19,16 @@ These files are primarily maintained for use in the the [GameStick Fans project]
 
 # Currently in testing
 
-Brave Warriors_3.47_com.GeorgeGames.BraveWarriors.apk<br>
+Cyberflow_1.2.1_com.LarissaDavidova.Cyberflow_GS.apk<br>
+Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
 Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
 Momonga Pinball Adventures_1.2_com.paladinstudios.momonga.apk<br>
 Sela The Space Pirate_1.0_com.feili.SelaTheSpacePirate.apk<br>
 TURBINE_1.0_com.georgegames.turbine.apk<br>
+Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
+The Tribloos 2_2.3_com.Tribloos2.apk<br>
+unwind_1.4.2_com.jijjy.unwindpro.apk<br>
+Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
 
 # Overview
 
@@ -130,11 +135,10 @@ Vendetta_1.8.269_com.guildsoftware.vendetta.apk
 <details>
 <summary> ❓ Games not tested so far</summary>
 Animal Battle_1.0.7_com.ovogame.animalbattle.apk<br>
+Brave Warriors_3.47_com.GeorgeGames.BraveWarriors.apk<br>
 Catcha Catcha_1.0.0_com.Hotsauce.CatchaCatchaAliens.apk<br>
 codestorm_1.0.1_co.nz.polygame.codestormgs.apk<br>
 Cube Defender_1.0_com.parkpossegames.cubedefender.gamestick.apk<br>
-Cyberflow_1.2.1_com.LarissaDavidova.Cyberflow_GS.apk<br>
-Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
 Miseria_1.0_com.RatJarGames.Miseria.apk<br>
 Soldier Nightmare_4.0_com.georgegames.soldiernightmare.apk<br>
 Sound Ride_1.16_com.outofthebit.soundride.apk<br>
@@ -144,10 +148,6 @@ SpaceCat_2.0.5_com.thepilltree.spacecat.apk<br>
 Stop The Birds_1.4_com.haybyte.stopthebirds.apk<br>
 Super Grid Run_1.0.3_com.Refresh_Creations_Ltd.Super_Grid_Run.apk<br>
 Tales of Pocoro_1.2.1_eu.curvedcat.talesofpocoro.apk<br>
-The Tribloos 2_2.3_com.Tribloos2.apk<br>
-Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
-unwind_1.4.2_com.jijjy.unwindpro.apk<br>
-Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
 </details>
 
 <details>
