@@ -19,12 +19,12 @@ These files are primarily maintained for use in the the [GameStick Fans project]
 
 # Currently in testing
 
-Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
-Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
-Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
-The Tribloos 2_2.3_com.Tribloos2.apk<br>
-unwind_1.4.2_com.jijjy.unwindpro.apk<br>
-Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
+- Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
+- Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
+- Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
+- The Tribloos 2_2.3_com.Tribloos2.apk<br>
+- unwind_1.4.2_com.jijjy.unwindpro.apk<br>
+- Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
 
 # Overview
 
