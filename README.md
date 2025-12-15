@@ -5,7 +5,7 @@
 This repository contains curated assets from original PlayJam GameStick releases, including:
 
 - **Forwarder APKs**  
-  Small launcher apps that forward to the *original* GameStick game APKs (for use on OUYA and compatible Android devices).
+  Small launcher apps that forward to the *original* GameStick game APKs (for use on OUYA Android devices).
 
 - **Game artwork**  
   Enhanced and sharpened PNG icons and JPG screenshots based on the original GameStick store material.  
