@@ -131,20 +131,20 @@ Vendetta_1.8.269_com.guildsoftware.vendetta.apk
 
 <details>
 <summary> ❓ Games not tested so far</summary>
-- Animal Battle_1.0.7_com.ovogame.animalbattle.apk<br>
-- Brave Warriors_3.47_com.GeorgeGames.BraveWarriors.apk<br>
-- Catcha Catcha_1.0.0_com.Hotsauce.CatchaCatchaAliens.apk<br>
-- codestorm_1.0.1_co.nz.polygame.codestormgs.apk<br>
-- Cube Defender_1.0_com.parkpossegames.cubedefender.gamestick.apk<br>
-- Miseria_1.0_com.RatJarGames.Miseria.apk<br>
-- Soldier Nightmare_4.0_com.georgegames.soldiernightmare.apk<br>
-- Sound Ride_1.16_com.outofthebit.soundride.apk<br>
-- Space Ax_1.0_dk.houseonfire.gamestick.spaceaxe.apk<br>
-- SpaceBall_1.65_com.georgegames.spaceball.apk<br>
-- SpaceCat_2.0.5_com.thepilltree.spacecat.apk<br>
-- Stop The Birds_1.4_com.haybyte.stopthebirds.apk<br>
-- Super Grid Run_1.0.3_com.Refresh_Creations_Ltd.Super_Grid_Run.apk<br>
-- Tales of Pocoro_1.2.1_eu.curvedcat.talesofpocoro.apk<br>
+Animal Battle_1.0.7_com.ovogame.animalbattle.apk<br>
+Brave Warriors_3.47_com.GeorgeGames.BraveWarriors.apk<br>
+Catcha Catcha_1.0.0_com.Hotsauce.CatchaCatchaAliens.apk<br>
+codestorm_1.0.1_co.nz.polygame.codestormgs.apk<br>
+Cube Defender_1.0_com.parkpossegames.cubedefender.gamestick.apk<br>
+Miseria_1.0_com.RatJarGames.Miseria.apk<br>
+Soldier Nightmare_4.0_com.georgegames.soldiernightmare.apk<br>
+Sound Ride_1.16_com.outofthebit.soundride.apk<br>
+Space Ax_1.0_dk.houseonfire.gamestick.spaceaxe.apk<br>
+SpaceBall_1.65_com.georgegames.spaceball.apk<br>
+SpaceCat_2.0.5_com.thepilltree.spacecat.apk<br>
+Stop The Birds_1.4_com.haybyte.stopthebirds.apk<br>
+Super Grid Run_1.0.3_com.Refresh_Creations_Ltd.Super_Grid_Run.apk<br>
+Tales of Pocoro_1.2.1_eu.curvedcat.talesofpocoro.apk<br>
 </details>
 
 <details>
