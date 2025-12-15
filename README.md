@@ -1,6 +1,6 @@
 # GameStick Assets
 
-> Forwarders, cover images and metadata for PlayJam **GameStick** games, prepared for use on **OUYA** and modern GameStick-based systems.
+> Forwarders, cover images and metadata for PlayJam **GameStick** games, prepared for use on **OUYA** systems.
 
 This repository contains curated assets from original PlayJam GameStick releases, including:
 
