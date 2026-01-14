@@ -19,12 +19,7 @@ These files are primarily maintained for use in the the [GameStick Fans project]
 
 # Currently in testing
 
-- Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
-- Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
-- Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
-- The Tribloos 2_2.3_com.Tribloos2.apk<br>
-- unwind_1.4.2_com.jijjy.unwindpro.apk<br>
-- Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
+None
 
 # Overview
 
@@ -58,7 +53,11 @@ Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
 
 <details>
 <summary> ⌛ Games with planned launcher (already tested)</summary>
-more will be added soon
+Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
+Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
+Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
+The Tribloos 2_2.3_com.Tribloos2.apk<br>
+unwind_1.4.2_com.jijjy.unwindpro.apk
 </details>
 
 <details>
@@ -164,8 +163,8 @@ The Chronicles of Pandora (lag when enemies)<br/>
 The Other Brothers_1.1_com.tobgame.tob.apk (no stable menu navigation)<br/>
 Top Gear Stunt School (every first launch crashes app)<br>
 TURBINE_1.0_com.georgegames.turbine.apk (Screen rotated, no controls)<br>
+Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk (low framerate)
 </details>
 
 > [!NOTE]
 > Other not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
-
