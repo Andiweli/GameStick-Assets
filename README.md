@@ -1,11 +1,11 @@
 # GameStick Assets
 
-> Forwarders, cover images and metadata for PlayJam **GameStick** games, prepared for use on **OUYA** and modern GameStick-based systems.
+> Forwarders, cover images and metadata for PlayJam **GameStick** games, prepared for use on **OUYA** systems.
 
 This repository contains curated assets from original PlayJam GameStick releases, including:
 
 - **Forwarder APKs**  
-  Small launcher apps that forward to the *original* GameStick game APKs (for use on OUYA and compatible Android devices).
+  Small launcher apps that forward to the *original* GameStick game APKs (for use on OUYA Android devices).
 
 - **Game artwork**  
   Enhanced and sharpened PNG icons and JPG screenshots based on the original GameStick store material.  
@@ -19,12 +19,7 @@ These files are primarily maintained for use in the the [GameStick Fans project]
 
 # Currently in testing
 
-Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
-Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
-Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
-The Tribloos 2_2.3_com.Tribloos2.apk<br>
-unwind_1.4.2_com.jijjy.unwindpro.apk<br>
-Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
+None
 
 # Overview
 
@@ -36,11 +31,16 @@ Bloo Kid_1.0_de.eiswuxe.blookid.apk<br>
 Cro-Mag Rally_1.2.1_com.citizen12.cromag.apk<br>
 Dark Incursion_1.0.7_com.bigbluebubble.darkincfull.apk<br>
 Expendable Rearmed_1.1.3_com.retrobomb.expendablerearmed.apk<br>
+Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
+Falling Bird_1.3_com.oneleggedseagull.fallingbird.apk<br>
 Final Freeway 2R_1.8.12.0_com.oyatsukai.finalfwy2r.apk<br>
 Fox Tales_1.03_com.wonosoft.foxtalestheskeletonking.apk<br>
 Galaga Special Edition_1.0.1_com.namcobandaigames.gamestick.galagase.apk<br>
+Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
 Icy Tower_1.2.8_com.freelunchdesign.icytowerclassic.apk<br>
 Magic Rampage_1.8.5_com.ethanonengine.gamestick.magicrampage.apk<br>
+MAGNETOID HD - Robo Runner_1.0.9_com.room247studio.magnetoid.gamestick.apk<br>
+Metaloid Reactor Guardian_1.0.3_com.retrorevolution.metaloid.apk<br>
 Particle Arcade Shooter_2.1_com.dianoxgames.particle.apk<br>
 Prince of Persia The Shadow and the Flame_2.0.1_com.ubisoft.princeofpersia.shadowandflame.ggp.apk<br>
 Reckless Getaway_1.0.0_com.pixelbite.Getaway.apk<br>
@@ -49,15 +49,16 @@ Retroid_1.0.0_com.taurris.retroidgamestick.apk<br>
 Riptide_1.6.2_com.vectorunit.bluegamestick.apk<br>
 RiseOfGlory_1.0.0_com.namcobandaigames.gamestick.riseofglory.apk<br>
 Ski Safari_1.4.2_com.DefiantDev.SkiSafari.apk<br>
+The Tribloos 2_2.3_com.Tribloos2.apk<br>
+Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
 TurboFly HD_2.17_net.osaris.turbofly.apk<br>
+unwind_1.4.2_com.jijjy.unwindpro.apk
 Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
 </details>
 
 <details>
 <summary> ⌛ Games with planned launcher (already tested)</summary>
-Falling Bird_1.3_com.oneleggedseagull.fallingbird.apk<br>
-MAGNETOID HD - Robo Runner_1.0.9_com.room247studio.magnetoid.gamestick.apk<br>
-Metaloid Reactor Guardian_1.0.3_com.retrorevolution.metaloid.apk<br>
+None
 </details>
 
 <details>
@@ -163,8 +164,8 @@ The Chronicles of Pandora (lag when enemies)<br/>
 The Other Brothers_1.1_com.tobgame.tob.apk (no stable menu navigation)<br/>
 Top Gear Stunt School (every first launch crashes app)<br>
 TURBINE_1.0_com.georgegames.turbine.apk (Screen rotated, no controls)<br>
+Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk (low framerate)
 </details>
 
 > [!NOTE]
 > Other not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
-
